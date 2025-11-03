@@ -8,20 +8,20 @@
 
 **Name**: *Maksym* \
 **Group**: *KN-125DSG* \
-**Date**: *03.11.2025* \
+**Date**: *03.11.2025* 
 
 ### Description
 Hi! I`m Maks and this is my first Repo on Github. I'm just practising working with LateX, markdown and some other stuff:3
 
 ### My favorites subjects
 
-At the momment, my fav subjects are:\
+At the momment, my fav subjects are:
 1. Programing
 2. Calculus
 3. Geomerty idk
 
 ### Online vs Offline studying
-Here is what i think about each option:\
+Here is what i think about each option:
 | **Online** | **Offline** |
 |:-------------:|:-------------:|
 |You can sleep more|More funny and cool moments|

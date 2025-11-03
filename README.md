@@ -65,7 +65,7 @@ cout << "Hello Github:3";
 }
 ```
 
-I use [cpp.shell](https://cpp.sh/?source=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0Aint+main()+%7B%0D%0A%09int+suma_kvadratov+%3D+0%3B%0D%0A%09int+suma+%3D+0%3B%0D%0A%09int+kvadrat_sumi+%3D+0%3B%0D%0A%09for+(int+i+%3D+1%3B+i+%3C+101%3B+i%2B%2B)+%7B%0D%0A%09%09suma_kvadratov+%2B%3D+(i+*+i)%3B%0D%0A%09%09suma+%2B%3D+i%3B%0D%0A%09%09i%2B%2B%3B%0D%0A%09%09cout+%3C%3C+%22Sumkv+%3D+%22+%3C%3C+suma_kvadratov+%3C%3C+endl%3B%0D%0A%09%09cout+%3C%3C+%22Suma+%3D%22+%3C%3C+suma+%3C%3C+endl%3B%0D%0A%09%7D%0D%0A%09cout+%3C%3C+suma+*+suma+%3C%3C+endl%3B%0D%0A%09cout+%3C%3C+(suma+*+suma)+-+suma_kvadratov%3B%0D%0A%09cout+%3C%3C+%22pisun%22%3B%0D%0A%7D) for demonstrating this `main()` func
+I use [cpp.shell](https://cpp.sh/?source=%23include+%3Ciostream%3E%0D%0Ausing+namespace+std%3B%0D%0A%0D%0A%0D%0Aint+main()+%7B%0D%0Acout+%3C%3C+%22Hello+Github%3A3%22%3B%0D%0A%7D) for demonstrating this `main()` func
 
 ### Image i like
 Here's image of silly cat licking the silly lolipop in a silly hat:
